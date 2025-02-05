@@ -1,0 +1,80 @@
+{
+  "Students": [
+    {
+      "Id": 1,
+      "RollNo": "001",
+      "Name": "Anushka",
+      "Age": "20",
+      "DOB": "12-06-05",
+      "CGPA": "9.73",
+      "Course": "BCA",
+      "Branch": "Data Science",
+      "id": "5471"
+    },
+    {
+      "Id": 2,
+      "RollNo": "002",
+      "Name": "Divyansh",
+      "Age": "22",
+      "DOB": "05-11-03",
+      "CGPA": "9.71",
+      "Course": "BCA",
+      "Branch": "Data Science",
+      "id": "d714"
+    },
+    {
+      "Id": 3,
+      "RollNo": "003",
+      "Name": "Rohan",
+      "Age": 22,
+      "DOB": "03-03-08",
+      "CGPA": 8.7,
+      "Course": "BTech",
+      "Branch": "EEE",
+      "id": "f62c"
+    },
+    {
+      "Id": 4,
+      "RollNo": "004",
+      "Name": "Rahul",
+      "Age": 23,
+      "DOB": "04-04-09",
+      "CGPA": 8.9,
+      "Course": "BTech",
+      "Branch": "CSE",
+      "id": "3023"
+    },
+    {
+      "Id": 5,
+      "RollNo": "005",
+      "Name": "Rohan",
+      "Age": 24,
+      "DOB": "05-05-10",
+      "CGPA": 9,
+      "Course": "BTech",
+      "Branch": "ECE",
+      "id": "1133"
+    },
+    {
+      "Id": 6,
+      "RollNo": "006",
+      "Name": "Rahul",
+      "Age": 25,
+      "DOB": "06-06-11",
+      "CGPA": 9.2,
+      "Course": "BTech",
+      "Branch": "EEE",
+      "id": "263e"
+    },
+    {
+      "id": "2ee1",
+      "RollNo": "007",
+      "Name": "Kuhu",
+      "Age": "20",
+      "DOB": "18-03-2005",
+      "CGPA": "9.6",
+      "Course": "B.Tech",
+      "Branch": "CSE"
+    }
+  ]
+}
