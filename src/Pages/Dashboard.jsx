@@ -11,7 +11,7 @@ const Dashboard = () => {
       <h1>Welcome To the Student Management System Dashboard</h1>
 
       <Accordion defaultActiveKey="1">
-        <Accordion.Item eventKey="1">
+        <Accordion.Item eventKey="0">
           <Accordion.Header>Insert Student Data</Accordion.Header>
           <Accordion.Body>
             <Insert />
@@ -19,7 +19,7 @@ const Dashboard = () => {
         </Accordion.Item>
       </Accordion>
       <Accordion defaultActiveKey="1">
-        <Accordion.Item eventKey="1">
+        <Accordion.Item eventKey="0">
           <Accordion.Header>Display Student Data</Accordion.Header>
           <Accordion.Body>
             <Display />
@@ -27,7 +27,7 @@ const Dashboard = () => {
         </Accordion.Item>
       </Accordion>
       <Accordion defaultActiveKey="1">
-        <Accordion.Item eventKey="1">
+        <Accordion.Item eventKey="0">
           <Accordion.Header>Search Student Data</Accordion.Header>
           <Accordion.Body>
             <Search />
@@ -35,7 +35,7 @@ const Dashboard = () => {
         </Accordion.Item>
       </Accordion>
       <Accordion defaultActiveKey="1">
-        <Accordion.Item eventKey="1">
+        <Accordion.Item eventKey="0">
           <Accordion.Header>Update Student Data</Accordion.Header>
           <Accordion.Body>
             <Update />

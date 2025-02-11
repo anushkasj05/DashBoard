@@ -45,17 +45,6 @@
       "id": "3023"
     },
     {
-      "Id": 5,
-      "RollNo": "005",
-      "Name": "Rohan",
-      "Age": 24,
-      "DOB": "05-05-10",
-      "CGPA": 9,
-      "Course": "BTech",
-      "Branch": "ECE",
-      "id": "1133"
-    },
-    {
       "Id": 6,
       "RollNo": "006",
       "Name": "Rahul",
@@ -75,6 +64,16 @@
       "CGPA": "9.6",
       "Course": "B.Tech",
       "Branch": "CSE"
+    },
+    {
+      "id": "5207",
+      "RollNo": "008",
+      "Name": "Anushka",
+      "Age": "20",
+      "DOB": "12-06-05",
+      "CGPA": "9,0",
+      "Course": "bca",
+      "Branch": "ds"
     }
   ]
 }
