@@ -1,10 +1,10 @@
 import React from "react";
-import SideBar from "./Pages/SideBar";
 import { Outlet } from "react-router-dom";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Display from "./Pages/Display";
+import Sidebar from "./Pages/SideBar";
 
 const Layout = () => {
   return (
@@ -12,7 +12,7 @@ const Layout = () => {
       <Container fluid>
         <Row>
           <Col sm={4}>
-            <SideBar />
+            <Sidebar/>
           </Col>
           <Col sm={8} style={{ marginLeft: "-15%" }}>
             <Outlet />
